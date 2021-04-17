@@ -1,0 +1,20 @@
+main: com.VintageGaming.VintagePerms.PermsMain
+version: 2.2
+name: VintagePerms
+author: VintageGaming/Trolin720
+description: Permissions Plugin like Pex and Group Manager!
+
+commands:
+  vperms:
+    usage: /<command> <args> [opt args]
+    description: Main VintagePerms Command
+    aliases: vp
+  nick:
+    usage: /<command> <New Name>
+    description: Change your in-game name.
+  realnames:
+    usage: /<command>
+    description: List all Nicked Players.
+  vconvert:
+    usage: /<command>
+    description: Convert Old Files to New
