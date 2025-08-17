@@ -1,3 +1,5 @@
+Old Source -  Moved to https://github.com/VintageGaming/VintagePerms_2
+
 # VintagePerms
 A Minecraft plugin like PermissionsEx.
 
